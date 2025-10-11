@@ -1,0 +1,16 @@
+import java.util.*;
+public class Hello {
+    public static void main(String[] args) {
+        int[] arr={1,12,23,45,64,3,56,7};
+        Arrays.sort(arr);
+        for(int i=0;i<arr.length;i++){
+            System.out.print(arr[i]+" ");
+            
+           
+        }System.out.println();
+         System.out.println("second max="+arr[arr.length-2]);
+            System.out.println("third max="+arr[arr.length-3]);
+            
+
+    }
+}
