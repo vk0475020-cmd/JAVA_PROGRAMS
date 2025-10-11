@@ -1,0 +1,20 @@
+public class Hello {
+    public static void main(String[] args) {
+        int[] arr={1,12,23,45,64,3,56,7};
+        int l=64,f=0;
+        String a="false";
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]==l){
+                a="true";
+                f=i;
+                break;
+            }
+            
+            
+        }if(a=="true"){
+            System.out.println("founded at="+(f+1));
+        }else{
+            System.out.println("not founded");
+        }
+    }
+}
