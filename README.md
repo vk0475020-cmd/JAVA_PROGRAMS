@@ -22,4 +22,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
+## String
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
