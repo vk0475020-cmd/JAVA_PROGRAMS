@@ -15,13 +15,15 @@ class Solution {
                 j++;
             }
 
-            int len = j - i;
+            int len = j - i;// count the lenght of 1 and 0 
 
             if (s.charAt(i) == '1') {
                 ones += len;
             } else {
-                max = Math.max(max, prev + len);
-                prev = len;
+                max = Math.max(max, prev + len);//ye one se phale ke  
+                prev = len;                     //zero ke count ko 
+                                                //store kar  
+                                                //raha hai
             }
 
             i = j;
