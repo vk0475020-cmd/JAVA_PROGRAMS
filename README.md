@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
