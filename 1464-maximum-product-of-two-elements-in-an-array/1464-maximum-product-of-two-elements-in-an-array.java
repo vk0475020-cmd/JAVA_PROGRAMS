@@ -6,7 +6,7 @@ class Solution {
                 max2=max;
                 max=i;
             }else if(i>max2)
-                max2=i;
+                max2=i;//Agar current number sabse bada (max1) nahi hai, lekin second largest (max2) se bada hai, to use second largest bana dofor example [3,5,4] 
         }
         // Arrays.sort(nums);
         // int l=nums.length;
