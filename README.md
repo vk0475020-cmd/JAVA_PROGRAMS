@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
 ## Recursion
 |  |
 | ------- |
@@ -97,4 +100,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
