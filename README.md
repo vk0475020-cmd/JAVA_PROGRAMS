@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0520-detect-capital](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0520-detect-capital) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
