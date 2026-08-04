@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3731-find-missing-elements](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Math
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3731-find-missing-elements](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3731-find-missing-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
