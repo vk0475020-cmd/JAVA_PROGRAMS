@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0485-max-consecutive-ones) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
