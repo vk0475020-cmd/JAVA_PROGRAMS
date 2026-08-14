@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
 |  |
