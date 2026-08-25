@@ -10,7 +10,7 @@ class Solution {
                 }
             }if(!found){
                 return i;
-            }i+=k;
+            }i+=k;             // 2+2=4,4+2=6,6+2=8 =>multipal of k
         }
 
     }
