@@ -1,17 +1,11 @@
 class Solution {
     public int missingMultiple(int[] nums, int k) {
-        int i=k;
-        while(true){
-            boolean found=false;
-            for(int x:nums){
-                if(x==i){
-                    found=true;
-                    break;
-                }
-            }if(!found){
-                return i;
-            }i+=k;             // 2+2=4,4+2=6,6+2=8 =>multipal of k
-        }
-
+        HashSet<Integer> s= new HashSet<>();
+        for(int i:nums){
+            s.add(i);
+        }int x=k;
+        while(s.contains(x)){
+            x+=k;
+        }return x;
     }
 }
