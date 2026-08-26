@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0031-next-permutation) |
 | [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -140,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0374-guess-number-higher-or-lower) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
