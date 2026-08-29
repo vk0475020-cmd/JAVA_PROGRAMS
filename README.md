@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0796-rotate-string) |
+| [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3499-maximize-active-section-with-trade-i) |
