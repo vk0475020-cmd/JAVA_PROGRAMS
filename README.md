@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0940-distinct-subsequences-ii) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
 | [0746-min-cost-climbing-stairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0940-distinct-subsequences-ii) |
 ## Recursion
 |  |
 | ------- |
