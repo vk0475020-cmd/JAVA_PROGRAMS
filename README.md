@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0031-next-permutation) |
+| [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
 | [0115-distinct-subsequences](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0392-is-subsequence) |
