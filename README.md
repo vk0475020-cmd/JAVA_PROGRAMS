@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0940-distinct-subsequences-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2414-length-of-the-longest-alphabetical-continuous-substring](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2414-length-of-the-longest-alphabetical-continuous-substring) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
