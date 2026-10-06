@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0796-rotate-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0940-distinct-subsequences-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
@@ -212,11 +214,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Tree
 |  |
