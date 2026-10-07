@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [1688-count-of-matches-in-tournament](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1688-count-of-matches-in-tournament) |
 | [2413-smallest-even-multiple](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2769-find-the-maximum-achievable-number) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
+| [1688-count-of-matches-in-tournament](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1688-count-of-matches-in-tournament) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3498-reverse-degree-of-a-string) |
 ## String
