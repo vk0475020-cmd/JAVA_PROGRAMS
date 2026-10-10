@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3731-find-missing-elements) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0374-guess-number-higher-or-lower) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Counting Sort
 |  |
 | ------- |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
