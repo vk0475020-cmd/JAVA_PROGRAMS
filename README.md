@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0055-jump-game) |
+| [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 | [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 | [0115-distinct-subsequences](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0115-distinct-subsequences) |
 | [0171-excel-sheet-column-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0205-isomorphic-strings) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 | [1306-jump-game-iii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1306-jump-game-iii) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Tree
@@ -255,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1306-jump-game-iii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1306-jump-game-iii) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
