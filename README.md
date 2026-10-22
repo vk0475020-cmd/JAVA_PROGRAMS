@@ -159,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0021-merge-two-sorted-lists) |
+| [0138-copy-list-with-random-pointer](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0138-copy-list-with-random-pointer) |
 | [0237-delete-node-in-a-linked-list](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Greedy
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0138-copy-list-with-random-pointer) |
 | [0205-isomorphic-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
