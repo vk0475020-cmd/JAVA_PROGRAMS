@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0485-max-consecutive-ones) |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
+| [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 | [1394-find-lucky-integer-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
+| [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -281,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
