@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0485-max-consecutive-ones) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0171-excel-sheet-column-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0171-excel-sheet-column-number) |
 | [0367-valid-perfect-square](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0367-valid-perfect-square) |
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
