@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0486-predict-the-winner) |
 | [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
 | [0628-maximum-product-of-three-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0628-maximum-product-of-three-numbers) |
+| [0682-baseball-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0682-baseball-game) |
 | [0746-min-cost-climbing-stairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0877-stone-game) |
 | [0908-smallest-range-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0908-smallest-range-i) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0682-baseball-game) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1688-count-of-matches-in-tournament) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0682-baseball-game) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
