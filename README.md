@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2965-find-missing-and-repeated-values](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2413-smallest-even-multiple) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2769-find-the-maximum-achievable-number](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2769-find-the-maximum-achievable-number) |
+| [2965-find-missing-and-repeated-values](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2965-find-missing-and-repeated-values) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
+| [2965-find-missing-and-repeated-values](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2965-find-missing-and-repeated-values](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2965-find-missing-and-repeated-values) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3718-smallest-missing-multiple-of-k) |
