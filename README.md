@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1512-number-of-good-pairs](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1512-number-of-good-pairs) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2073-time-needed-to-buy-tickets) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2965-find-missing-and-repeated-values](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2965-find-missing-and-repeated-values) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1260-shift-2d-grid](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1260-shift-2d-grid) |
 | [1688-count-of-matches-in-tournament](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/1688-count-of-matches-in-tournament) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2073-time-needed-to-buy-tickets) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/3498-reverse-degree-of-a-string) |
 ## String
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
+| [2073-time-needed-to-buy-tickets](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
