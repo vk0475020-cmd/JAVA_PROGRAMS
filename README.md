@@ -305,14 +305,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0232-implement-queue-using-stacks) |
+| [0933-number-of-recent-calls](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0933-number-of-recent-calls) |
 | [2073-time-needed-to-buy-tickets](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/2073-time-needed-to-buy-tickets) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0496-next-greater-element-i) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/vk0475020-cmd/JAVA_PROGRAMS/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
